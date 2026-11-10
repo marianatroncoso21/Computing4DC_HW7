@@ -40,3 +40,6 @@ print("Model trained!")
 joblib.dump(model, "model.joblib")
 
 print("Model saved to model.joblib")
+
+
+
